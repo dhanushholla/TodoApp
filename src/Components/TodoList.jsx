@@ -165,6 +165,9 @@ const TodoList = () => {
                 </div>
               )}
             </ul>
+            <div style={{ textAlign: "center" }}>
+              Made with ❤️ by Dhanush Holla
+            </div>
           </div>
         </div>
       </div>
